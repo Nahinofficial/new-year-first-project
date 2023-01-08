@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
+}
+
+.text-primary {
+  color: #fd6e0a;
+}
+
+.btn-primary {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 20px;
+  border: 0;
+  padding: 8px 16px;
+  height: 40px;
+  border-radius: 5px;
+  background: #fd6e0a;
+}
+
+/* Header And Navigation Styles */
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 100px;
+}
+
+.nav-title {
+  font-weight: 800;
+  font-size: 45px;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+}
+
+nav li {
+  list-style: none;
+  margin-left: 50px;
+}
+
+/* Banner Design */
+
+.banner {
+  text-align: right;
+}
+
+.main-headline {
+  padding-top: 50px;
+  padding-right: 150px;
+  padding-bottom: 20px;
+  padding-left: 80px;
+  font-size: 40px;
+}
+
+.main-description {
+  padding-right: 150px;
+  padding-left: 1250px;
+  padding-top: 0px;
+}
+.button2 {
+  padding-top: 30px;
+  padding-right: 150px;
+}
+body {
+  background-image: url(/images/banner/banner1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

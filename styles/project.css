@@ -75,3 +75,40 @@
   color: #444343;
   margin: 10px 0px;
 }
+/* my plan css section */
+.head-line {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.logos {
+  display: flex;
+  margin-top: 100px;
+  justify-content: center;
+  gap: 200px;
+}
+.mid-title {
+  margin-right: 100px;
+}
+.watch {
+  border-radius: 8px;
+  position: absolute;
+  width: 1140px;
+  height: 300px;
+  left: 400px;
+  top: 2222.26px;
+}
+.watch-title {
+  width: 50%;
+}
+footer {
+  position: absolute;
+  width: 2000px;
+  height: 400px;
+  top: 2652.26px;
+  background: #151414;
+}
+.footer-title {
+  color: white;
+}
